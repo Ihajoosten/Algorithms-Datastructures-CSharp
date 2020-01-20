@@ -18,7 +18,12 @@ namespace Algorithms_And_Datastructures
             //}
 
             //Console.WriteLine("New Interests after 2 years: " + SavingInterestsRecursive.CalculateInterests(10, 10, 2));
-           
+
+            //int[] array = new int[] { 1, 5, 6, 20, 7, 9, 99 };
+            //Console.WriteLine("Maximum ----> " + FindMaximumInsideArray.FindMaximum(array));
+
+
+
         }
     }
 }
