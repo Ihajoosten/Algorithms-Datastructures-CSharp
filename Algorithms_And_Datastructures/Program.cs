@@ -22,7 +22,9 @@ namespace Algorithms_And_Datastructures
             //int[] array = new int[] { 1, 5, 6, 20, 7, 9, 99 };
             //Console.WriteLine("Maximum ----> " + FindMaximumInsideArray.FindMaximum(array));
 
-
+            //int[] array = new int[] { 1, 5, 6, 20, 7, 9, 99 };
+            //Console.WriteLine(array[5].ToString());
+            //Console.WriteLine(ReverseArray.ReverseTheArray<int>(array)[1].ToString());
 
         }
     }
