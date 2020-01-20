@@ -26,6 +26,10 @@ namespace Algorithms_And_Datastructures
             //Console.WriteLine(array[5].ToString());
             //Console.WriteLine(ReverseArray.ReverseTheArray<int>(array)[1].ToString());
 
+            //Console.WriteLine(IsPalindrome.IsPalindromeOrNot("pizza"));
+            
+            //String[] arr = new String[] { "a", "d", "c" };
+            //Console.WriteLine(IsArraySorted.IsSorted(arr));
         }
     }
 }
