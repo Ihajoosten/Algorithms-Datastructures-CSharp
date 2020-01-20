@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luc\\Desktop\\Algorithms & Datastructures\\Algorithms_And_Datastructures\\Algorithms_And_Datastructures\\Algorithms_And_Datastructures.csproj": {}
+    "C:\\Users\\Luc\\Desktop\\Algorithms & Datastructures\\Algorithms_And_Datastructures\\Algorithms_And_Datastructures.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luc\\Desktop\\Algorithms & Datastructures\\Algorithms_And_Datastructures\\Algorithms_And_Datastructures\\Algorithms_And_Datastructures.csproj": {
+    "C:\\Users\\Luc\\Desktop\\Algorithms & Datastructures\\Algorithms_And_Datastructures\\Algorithms_And_Datastructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luc\\Desktop\\Algorithms & Datastructures\\Algorithms_And_Datastructures\\Algorithms_And_Datastructures\\Algorithms_And_Datastructures.csproj",
+        "projectUniqueName": "C:\\Users\\Luc\\Desktop\\Algorithms & Datastructures\\Algorithms_And_Datastructures\\Algorithms_And_Datastructures.csproj",
         "projectName": "Algorithms_And_Datastructures",
-        "projectPath": "C:\\Users\\Luc\\Desktop\\Algorithms & Datastructures\\Algorithms_And_Datastructures\\Algorithms_And_Datastructures\\Algorithms_And_Datastructures.csproj",
+        "projectPath": "C:\\Users\\Luc\\Desktop\\Algorithms & Datastructures\\Algorithms_And_Datastructures\\Algorithms_And_Datastructures.csproj",
         "packagesPath": "C:\\Users\\Luc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luc\\Desktop\\Algorithms & Datastructures\\Algorithms_And_Datastructures\\Algorithms_And_Datastructures\\obj\\",
+        "outputPath": "C:\\Users\\Luc\\Desktop\\Algorithms & Datastructures\\Algorithms_And_Datastructures\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
