@@ -1,0 +1,11 @@
+C:\Users\Luc\Desktop\Algorithms & Datastructures\Algorithms_And_Datastructures\Algorithms_And_Datastructures\obj\Debug\netcoreapp3.1\Algorithms_And_Datastructures.csprojAssemblyReference.cache
+C:\Users\Luc\Desktop\Algorithms & Datastructures\Algorithms_And_Datastructures\Algorithms_And_Datastructures\obj\Debug\netcoreapp3.1\Algorithms_And_Datastructures.AssemblyInfoInputs.cache
+C:\Users\Luc\Desktop\Algorithms & Datastructures\Algorithms_And_Datastructures\Algorithms_And_Datastructures\obj\Debug\netcoreapp3.1\Algorithms_And_Datastructures.AssemblyInfo.cs
+C:\Users\Luc\Desktop\Algorithms & Datastructures\Algorithms_And_Datastructures\Algorithms_And_Datastructures\bin\Debug\netcoreapp3.1\Algorithms_And_Datastructures.exe
+C:\Users\Luc\Desktop\Algorithms & Datastructures\Algorithms_And_Datastructures\Algorithms_And_Datastructures\bin\Debug\netcoreapp3.1\Algorithms_And_Datastructures.deps.json
+C:\Users\Luc\Desktop\Algorithms & Datastructures\Algorithms_And_Datastructures\Algorithms_And_Datastructures\bin\Debug\netcoreapp3.1\Algorithms_And_Datastructures.runtimeconfig.json
+C:\Users\Luc\Desktop\Algorithms & Datastructures\Algorithms_And_Datastructures\Algorithms_And_Datastructures\bin\Debug\netcoreapp3.1\Algorithms_And_Datastructures.runtimeconfig.dev.json
+C:\Users\Luc\Desktop\Algorithms & Datastructures\Algorithms_And_Datastructures\Algorithms_And_Datastructures\bin\Debug\netcoreapp3.1\Algorithms_And_Datastructures.dll
+C:\Users\Luc\Desktop\Algorithms & Datastructures\Algorithms_And_Datastructures\Algorithms_And_Datastructures\bin\Debug\netcoreapp3.1\Algorithms_And_Datastructures.pdb
+C:\Users\Luc\Desktop\Algorithms & Datastructures\Algorithms_And_Datastructures\Algorithms_And_Datastructures\obj\Debug\netcoreapp3.1\Algorithms_And_Datastructures.dll
+C:\Users\Luc\Desktop\Algorithms & Datastructures\Algorithms_And_Datastructures\Algorithms_And_Datastructures\obj\Debug\netcoreapp3.1\Algorithms_And_Datastructures.pdb
