@@ -1,12 +1,13 @@
 ﻿using Algorithms_And_Datastructures.ProefTentamen_1;
+using Algorithms_And_Datastructures.Recursion;
 using System;
 using System.Collections.Generic;
 
 namespace Algorithms_And_Datastructures
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             //Console.WriteLine("---- Reverse string -------> " + ReverseStringRecursive.ReverseRecursive("pizza"));
 
@@ -38,6 +39,9 @@ namespace Algorithms_And_Datastructures
             //{
             //    Console.WriteLine(" item -> " + item + "\n");
             //}
+
+            //Console.WriteLine("Numbers are: " + PrintNumbersRecursive.PrintNumber(10));
+            //Console.WriteLine("Numbers are: " + PrintNumbersRecursive.PrintNumberReverse(10));
         }
     }
 }
