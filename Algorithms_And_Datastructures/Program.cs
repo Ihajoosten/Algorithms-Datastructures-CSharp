@@ -43,7 +43,9 @@ namespace Algorithms_And_Datastructures
             //Console.WriteLine("Numbers are: " + PrintNumbersRecursive.PrintNumber(10));
             //Console.WriteLine("Numbers are: " + PrintNumbersRecursive.PrintNumberReverse(10));
 
-            Console.WriteLine("Numbers are: " + ComputeSumOfDigits.ComputeSum(11));
+            //Console.WriteLine("Numbers are: " + ComputeSumOfDigits.ComputeSum(11));
+
+            //Console.WriteLine("Count of digits is: " + CountNumbersRecursive.CountDigits(123455));
         }
     }
 }
