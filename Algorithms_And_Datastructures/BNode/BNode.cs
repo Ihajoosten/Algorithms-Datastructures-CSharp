@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AdsTryoutCSharp.ExpressionTree
+namespace BNode
 {
     public class BNode<E>
     {
