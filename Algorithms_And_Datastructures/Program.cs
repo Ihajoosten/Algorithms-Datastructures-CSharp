@@ -54,6 +54,8 @@ namespace Algorithms_And_Datastructures
 
             //Console.WriteLine("------- 100 binary is ----> " + DecimalToBinary.Dec2Bin(100));
 
+            //Console.WriteLine("Fibonacci numbers are ---------> " + FibbionaciRecursive.Fib(7));
+
         }
     }
 }
