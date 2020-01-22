@@ -49,8 +49,10 @@ namespace Algorithms_And_Datastructures
 
             //Console.WriteLine("Count of digits is: " + CountNumbersRecursive.CountDigits(123455));
 
-            Console.WriteLine("Odd numbers are: " + OddOrEvenNumbers.PrintOddNumbers(20));
-            Console.WriteLine("Even numbers are: " + OddOrEvenNumbers.PrintEvenNumbers(20));
+            //Console.WriteLine("Odd numbers are: " + OddOrEvenNumbers.PrintOddNumbers(20));
+            //Console.WriteLine("Even numbers are: " + OddOrEvenNumbers.PrintEvenNumbers(20));
+
+            //Console.WriteLine("------- 100 binary is ----> " + DecimalToBinary.Dec2Bin(100));
 
         }
     }
