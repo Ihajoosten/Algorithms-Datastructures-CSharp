@@ -56,6 +56,12 @@ namespace Algorithms_And_Datastructures
 
             //Console.WriteLine("Fibonacci numbers are ---------> " + FibbionaciRecursive.Fib(7));
 
+            //var items = new List<string> { "Node1", "Node2", "Node3", "Node4", "Node5", "Node6" };
+
+            //string output = RecursiveTree.BuildTree("", items, 0);
+
+            //// Result: Node1 <- Node2 <- Node3 <-.
+            //Console.Write(output);
         }
     }
 }
